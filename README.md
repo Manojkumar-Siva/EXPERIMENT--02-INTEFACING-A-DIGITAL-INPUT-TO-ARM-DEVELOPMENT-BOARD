@@ -95,10 +95,10 @@ void push_button()
 
 ## Output: 
 ###  LED Off:
-<img src="image2.jpg" alt="ledoff" width="500" height="600" >
+<img src="image1.jpg" alt="ledoff" width="400" height="500" >
 
 ### LED On:
- <img src="image1.jpg" alt="ledon" width="500" height="600" >
+ <img src="image2.jpg" alt="ledon" width="400" height="500" >
  
  
  
